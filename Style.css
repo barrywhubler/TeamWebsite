@@ -12,9 +12,10 @@ p{
 }
 
 h2{
-	color: grey;
-	margin: 3px 4px 5px 6px;
-	border-radius: 20px;
+	border-color: blue;
+	text-align: left;
+	font-size: 1.2 em;
+	color: blue;
 }
 
 </style>
