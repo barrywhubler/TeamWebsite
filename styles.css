@@ -1,0 +1,23 @@
+a{
+	float: left;
+	padding: 10px;
+	font-size: large;
+	border: 2px solid darkblue;
+}
+
+a:hover{
+	background-color: lightblue;
+	color: blue;
+}
+
+h1{
+	clear: left;
+}
+.jeff{
+	background-color: rgba(10,200,15,.5);
+	padding: 40px;
+}
+
+p{
+	font-size: large;
+}
