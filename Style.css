@@ -5,7 +5,12 @@ h1{
 	font-family: Georgia, Serif;
 	font-size: 1.4 em;	
 }
-
+h2{
+	color: red;
+	text-align: left;
+	font-family: Georgia, Serif;
+	font-size: 10.4 em;	
+}
 p{
 	color: red;
 	font-size: 1.6 em;
