@@ -1,0 +1,54 @@
+* {
+  font-family: Permanent Marker, Arial, sans-serif;
+  text-align: center;
+}
+.button_custom {
+  width: 80px;
+  height: 60px;
+  background-color: aqua;
+  border-radius: 10px;
+  border-color: black; 
+}
+#placeholder {
+    width: 100%;
+    height: auto; 
+
+}
+
+body{
+    background-image: url("tatami_mat.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron {
+    background-color: #7D4200;
+    font-color: white;
+}
+
+img{
+  margin: 10px;
+}
+
+h1 {
+    color: White;
+}
+
+#desc{
+    color: White;
+}
+
+.card{
+  margin: 10px;
+  background-color: #7D4200;
+}
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex-container > img {
+  width: 100px;
+  text-align: center;
+}
